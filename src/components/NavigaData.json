@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Chrome",
+    "images": "./images/logo-chrome.svg",
+    "version": "Minimum version 62",
+    "classeName": "xl:w-[90%] xl:h-full mx-4 p-4 flex flex-col justify-center items-center  rounded-sm    shadow-xl shadow-slate-300"
+  },
+  {
+    "id": 1,
+    "name": "Firefox",
+    "images": "./images/logo-firefox.svg",
+    "version": "Minimum version 55",
+    "classeName": "xl:w-[90%] xl:h-full mx-4 p-4  xl:mt-10  rounded-sm  flex flex-col justify-center items-center shadow-xl shadow-slate-300"
+  },
+  {
+    "id": 2,
+    "name": "Opera",
+    "images": "./images/logo-opera.svg",
+    "version": "Minimum version 46",
+    "classeName": "xl:w-[90%] xl:h-full mx-4 p-4   xl:mt-20  rounded-sm flex flex-col justify-center items-center shadow-xl shadow-slate-300"
+  }
+]
